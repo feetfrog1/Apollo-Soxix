@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Apollo and DJ Huntress",
+    "Name": "Gambapyon",
+    "Description": "Gambapyon for Pink Lantern ",
+    "InternalName": "Blackjack",
+    "AssemblyVersion": "1.00",
+    "TestingAssemblyVersion": "1.01",
+    "RepoUrl": "https://github.com/Deckerz/Plugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "DownloadLinkInstall": "https://github.com/Deckerz/Plugins/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Deckerz/Plugins/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Deckerz/Plugins/releases/download/v0.0.0.9/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Deckerz/Plugins/main/logo.png"
+  }
+]
